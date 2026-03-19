@@ -1,5 +1,4 @@
 # Asteroids
----
 
 ## Context
 
